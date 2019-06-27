@@ -31,6 +31,8 @@ namespace 滑鼠點擊_練習
         {
             times = 0;
             lebal.Text = "你已經按了 0下";
+            MessageBox.Show("");
+            
         }
     }
 }
